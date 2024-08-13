@@ -1,2 +1,3 @@
-let text = "We are the called vikings from the dhka";
-console.log(text);
+let x = "John";
+let y = new String("John");
+console.log(x===y);
