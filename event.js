@@ -6,4 +6,23 @@
 var myName = "Minoar"
 if (myName ==="Minoar"){
     console.log('You are allowed');
+
+}
+
+var myName = "Minoar"
+if (myName ==="Rony"){
+    console.log('You are n allowed');
+}
+
+var myAge = 21;
+if(9 > 10) {
+    console.log('Greater');
+}
+if (myAge >= 20){
+    console.log("You are adult!!");
+
+}
+
+if (myAge<20) {
+    console.log('You are not Adult!')
 }
