@@ -31,3 +31,12 @@ var myAge = 22;
 if(myAge > 20 && myAge < 60){
     console.log('You are a young person');
 }
+
+var age  = 21;
+if(age > 18){
+    console.log('Now You are Adult')
+}
+
+else {
+    console.log("No you are not aged enough to bea adult ")
+}
