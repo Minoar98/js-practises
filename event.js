@@ -23,6 +23,11 @@ if (myAge >= 20){
 
 }
 
-if (myAge<20) {
+if (myAge < 20) {
     console.log('You are not Adult!')
+}
+
+var myAge = 22;
+if(myAge > 20 && myAge < 60){
+    console.log('You are a young person');
 }
